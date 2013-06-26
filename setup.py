@@ -7,6 +7,6 @@ setup(
     license = 'BSD',
     description = "JSON serialization support for Google's protobuf Messages",
     author = 'Paul Dovbush',
-    packages = ['protobuf-json']
+    packages = ['protobuf_json']
 )
 
